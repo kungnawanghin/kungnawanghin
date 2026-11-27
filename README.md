@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/kungnawanghin/kungnawanghin/output/bomberman-contribution-graph-dark.svg" width="100%" alt="Bomberman on my GitHub contributions — dark theme">
-<p align="right"><sub><a href="https://github.com/abozanona/pacman-contribution-graph">Bomberman ↗</a></sub></p>
+<p align="center">
+  <a href="https://tenor.com/view/cat-headphones-cute-comfy-sleep-gif-22777832"><img src="https://media1.tenor.com/m/1x53as0CkZcAAAAd/cat-headphones.gif" width="110" alt="Chill cat sleeping on headphones"></a>
+  <br><sub>headphones on. taking it slow. ♫</sub>
+</p>
 
 <br>
 
@@ -17,7 +19,7 @@ A little window into the world — an interactive globe for exploring real data.
 
 <samp>react / typescript / webgl / world bank</samp>
 
-[visit ↗](https://worldinmotion.vercel.app/)** &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/world-in-motion)
+[visit ↗](https://worldinmotion.vercel.app/) &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/world-in-motion)
 
 <br>
 
@@ -28,7 +30,7 @@ A closer look at the weather around Bangkok, through maps and everyday patterns.
 
 <samp>next.js / typescript / supabase / data visualization</samp>
 
-[visit ↗](https://weather-analytics-platform.vercel.app/)** &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/weather-analytics-platform)
+[visit ↗](https://weather-analytics-platform.vercel.app/) &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/weather-analytics-platform)
 
 <br>
 
@@ -39,7 +41,7 @@ Keeping grades and GPA in one place, one semester at a time.
 
 <samp>next.js / react / typescript / supabase</samp>
 
-[visit ↗](https://ict-gpa-tracker-v5l3.vercel.app/)** &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/ict-gpa-tracker)
+[visit ↗](https://ict-gpa-tracker-v5l3.vercel.app/) &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/ict-gpa-tracker)
 
 <br>
 
@@ -50,3 +52,8 @@ Keeping grades and GPA in one place, one semester at a time.
 <p align="center"><a href="https://github.com/kungnawanghin?tab=repositories">more things i've made ↗</a></p>
 
 <p align="center"><sub>taking it slow. making things along the way. ♫</sub></p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/kungnawanghin/kungnawanghin/output/bomberman-contribution-graph-dark.svg" width="100%" alt="Bomberman on my GitHub contributions — dark theme">
+<p align="right"><sub><a href="https://github.com/abozanona/pacman-contribution-graph">Bomberman ↗</a></sub></p>
