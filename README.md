@@ -5,16 +5,24 @@
 
 <br>
 
-<a href="https://weather-analytics-platform.vercel.app/"><img src="assets/previews/weather.png" width="100%" alt="beyond the forecast — real website screenshot"></a>
+---
 
 ### beyond the forecast
+A closer look at the weather around Bangkok, through maps and everyday patterns.
+
+<samp>next.js / typescript / supabase / data visualization</samp>
+
 [visit ↗](https://weather-analytics-platform.vercel.app/) &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/weather-analytics-platform)
 
 <br>
 
-<a href="https://ict-gpa-tracker-v5l3.vercel.app/"><img src="assets/previews/gpa.png" width="100%" alt="ict gpa tracker — real website screenshot"></a>
+---
 
 ### ict gpa tracker
+Keeping grades and GPA in one place, one semester at a time.
+
+<samp>next.js / react / typescript / supabase</samp>
+
 [visit ↗](https://ict-gpa-tracker-v5l3.vercel.app/) &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/ict-gpa-tracker)
 
 <br>
