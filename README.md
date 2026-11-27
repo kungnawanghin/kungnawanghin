@@ -1,9 +1,3 @@
-<img src="assets/signal-lost.svg" width="100%" alt="KUNGNAWANGHIN — SIGNAL LOST. quiet hours. loud ideas.">
-
-<p align="center"><samp>WEB EXPERIENCES &nbsp; / &nbsp; DATA VISUALIZATION &nbsp; / &nbsp; EXPERIMENTS</samp></p>
-
-<br>
-
 <a href="https://worldinmotion.vercel.app/"><img src="assets/world-in-motion-signal.svg" width="100%" alt="WORLD IN MOTION — Interactive 3D globe with World Bank data. Open website."></a>
 <p align="right"><samp><a href="https://worldinmotion.vercel.app/">LIVE ↗</a> &nbsp; / &nbsp; <a href="https://github.com/kungnawanghin/world-in-motion">SOURCE ↗</a></samp></p>
 
