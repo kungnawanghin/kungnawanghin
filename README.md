@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tenor.com/view/cat-headphones-cute-comfy-sleep-gif-22777832"><img src="https://media1.tenor.com/m/1x53as0CkZcAAAAd/cat-headphones.gif" width="110" alt="Chill cat sleeping on headphones"></a>
+  <a href="https://tenor.com/view/cat-black-dance-neon-%D0%BA%D0%BE%D1%82-gif-17272744153434641642"><img src="https://media1.tenor.com/m/77UdSumtVOoAAAAd/cat-black.gif" width="110" alt="Animated black cartoon cat chilling with headphones"></a>
   <br><sub>headphones on. taking it slow. ♫</sub>
 </p>
 
