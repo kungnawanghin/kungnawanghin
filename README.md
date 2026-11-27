@@ -1,3 +1,9 @@
+<img src="assets/arcade-signal.svg" width="100%" alt="After hours / Bomberman">
+<img src="https://raw.githubusercontent.com/kungnawanghin/kungnawanghin/output/bomberman-contribution-graph-dark.svg" width="100%" alt="Bomberman animation on my contribution graph — dark theme">
+<p align="right"><sub><a href="https://github.com/abozanona/pacman-contribution-graph">ARCADE ENGINE ↗</a></sub></p>
+
+<br>
+
 <a href="https://worldinmotion.vercel.app/"><img src="assets/world-in-motion-signal.svg" width="100%" alt="WORLD IN MOTION — Interactive 3D globe with World Bank data. Open website."></a>
 <p align="right"><samp><a href="https://worldinmotion.vercel.app/">LIVE ↗</a> &nbsp; / &nbsp; <a href="https://github.com/kungnawanghin/world-in-motion">SOURCE ↗</a></samp></p>
 
@@ -21,11 +27,5 @@
 </p>
 
 <br><br>
-
-<img src="assets/arcade-signal.svg" width="100%" alt="After hours / Bomberman">
-<img src="https://raw.githubusercontent.com/kungnawanghin/kungnawanghin/output/bomberman-contribution-graph-dark.svg" width="100%" alt="Bomberman animation on my contribution graph — dark theme">
-<p align="right"><sub><a href="https://github.com/abozanona/pacman-contribution-graph">ARCADE ENGINE ↗</a></sub></p>
-
-<br>
 
 <p align="center"><samp>END OF TRANSMISSION_</samp><br><br><samp><a href="https://github.com/kungnawanghin?tab=repositories">ALL REPOSITORIES ↗</a></samp></p>
