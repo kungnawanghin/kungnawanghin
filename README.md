@@ -3,10 +3,8 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="48" alt="Small anime character, Kyubey">
-
-### SELECTED WORK
-<samp>interactive worlds · useful tools · things I've built</samp>
+### little things i've been building
+<sub>headphones on, one project at a time.</sub>
 
 <br>
 
@@ -14,41 +12,41 @@
   <img src="https://raw.githubusercontent.com/kungnawanghin/world-in-motion/main/docs/images/internet-users.jpg" width="100%" alt="Real screenshot of WORLD IN MOTION: interactive globe, internet access data and country rankings">
 </a>
 
-### WORLD IN MOTION
-Explore a 3D globe through population, economy, health and internet access data.
+### world in motion
+A little window into the world — an interactive globe for exploring real data.
 
-<samp>REACT / TYPESCRIPT / WEBGL / WORLD BANK</samp>
+<samp>react / typescript / webgl / world bank</samp>
 
-**[Open website ↗](https://worldinmotion.vercel.app/)** &nbsp; · &nbsp; [Source code](https://github.com/kungnawanghin/world-in-motion)
-
-<br>
-
----
-
-### BEYOND THE FORECAST
-Weather maps, forecasts and historical analytics for Bangkok and surrounding provinces.
-
-<samp>NEXT.JS / TYPESCRIPT / SUPABASE / DATA VISUALIZATION</samp>
-
-**[Open website ↗](https://weather-analytics-platform.vercel.app/)** &nbsp; · &nbsp; [Source code](https://github.com/kungnawanghin/weather-analytics-platform)
+[visit ↗](https://worldinmotion.vercel.app/)** &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/world-in-motion)
 
 <br>
 
 ---
 
-### ICT GPA TRACKER
-Record grades, calculate semester and cumulative GPA, and follow your progress.
+### beyond the forecast
+A closer look at the weather around Bangkok, through maps and everyday patterns.
 
-<samp>NEXT.JS / REACT / TYPESCRIPT / SUPABASE</samp>
+<samp>next.js / typescript / supabase / data visualization</samp>
 
-**[Open website ↗](https://ict-gpa-tracker-v5l3.vercel.app/)** &nbsp; · &nbsp; [Source code](https://github.com/kungnawanghin/ict-gpa-tracker)
+[visit ↗](https://weather-analytics-platform.vercel.app/)** &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/weather-analytics-platform)
 
 <br>
 
 ---
 
-<p align="center"><samp>TYPESCRIPT &nbsp; · &nbsp; REACT &nbsp; · &nbsp; NEXT.JS &nbsp; · &nbsp; WEBGL &nbsp; · &nbsp; SUPABASE</samp></p>
+### ict gpa tracker
+Keeping grades and GPA in one place, one semester at a time.
 
-<p align="center"><a href="https://github.com/kungnawanghin?tab=repositories">More projects ↗</a></p>
+<samp>next.js / react / typescript / supabase</samp>
 
-<p align="center"><sub>Layout inspired by <a href="https://github.com/innng/innng">innng</a> · character GIF from their public assets.</sub></p>
+[visit ↗](https://ict-gpa-tracker-v5l3.vercel.app/)** &nbsp; · &nbsp; [code](https://github.com/kungnawanghin/ict-gpa-tracker)
+
+<br>
+
+---
+
+<p align="center"><samp>typescript &nbsp; · &nbsp; react &nbsp; · &nbsp; next.js &nbsp; · &nbsp; webgl &nbsp; · &nbsp; supabase</samp></p>
+
+<p align="center"><a href="https://github.com/kungnawanghin?tab=repositories">more things i've made ↗</a></p>
+
+<p align="center"><sub>taking it slow. making things along the way. ♫</sub></p>
